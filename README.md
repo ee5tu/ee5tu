@@ -1,6 +1,6 @@
 ### Ee5tu
 - Finnish high school student 📚
-- Currently learning webdev/react 💻
+- Currently learning webdev/vue & javascript 💻
 
 <!--
 **ee5tu/ee5tu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
